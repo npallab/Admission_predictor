@@ -12,5 +12,3 @@ This project leverages a Logistic Regression model to predict the admission stat
 **Gradio Interface**: A user-friendly web interface that allows users to input passwords and get immediate feedback on their strength.
 
 
-
-**Screenshots**
